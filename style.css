@@ -1,0 +1,17 @@
+h1 {
+    color:blue;
+}
+p {
+    font-size: 30px;
+}
+li {
+    font-size: 15px;
+    font-weight: bold;
+}
+img{
+    width:400px;
+    border-radius: 45px;
+}
+tr.lang-table-header {
+    background-color:brown;
+}
